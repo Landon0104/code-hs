@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tic Tac Toe</title>
+        <style>
+          table {
+            font-size: 50px;
+            color: orange;
+          }
+        </style>
+    </head>
+    <body>
+        <h1>Tic Tac Toe</h1>
+        <table border="1">
+          <tr>
+            <div class="Winner">
+            <td class="winner">X</td>
+            <td class="winner">X</td>
+            <td class="winner">X</td>
+            </div>
+          </tr>
+          <tr>
+            <td></td>
+            <td>O</td>
+            <td>O</td>
+          </tr>
+          <tr>
+            <td>O</td>
+            <td></td>
+            <td>X</td>
+          </tr>
+        </table>
+        <h2>X is the winner!</h2>
+        
+    </body>
+</html>
