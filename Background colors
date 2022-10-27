@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Grocery Shopping</title>
+    </head>
+    
+    <body style="background-color:LightBlue;">
+        <h1 style="background-color: salmon">Grocery List</h1>
+        <ul style="background-color:Misty>
+            <li>Apples</li>
+            <li>Bananas</li>
+            <li>Cookies
+              <ol>
+                  <li>Chocolate Chip</li>
+                  <li>Oatmeal</li>
+                  <li>Peanut Butter</li>
+              </ol></li>
+            <li>Bread</li>
+        </ul>
+    </body>
+</html>
